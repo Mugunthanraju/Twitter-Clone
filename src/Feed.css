@@ -1,0 +1,30 @@
+.feed {
+    flex: 0.558;
+    border-right: 1px solid var(--twitter-background);
+    min-width: fit-content;
+    overflow-y: scroll;
+}
+
+/* Hide scrollbar for Chrome, Safari & Opera */
+.feed::-webkit-scrollbar {
+    display: none;
+}
+
+.feed {
+    -ms-overflow-style: none; /*IE & Edge */
+    scrollbar-width: none;  /* Firefox */
+}
+
+.feed__header {
+    position: sticky;
+    top: 0;
+    background-color: #111b29;
+    z-index: 100;
+    border-bottom: 1px solid rgb(53, 64, 80);
+    padding: 15px 20px;
+}
+
+.feed__header > h2 {
+    font-size: 20px;
+    font-weight: 800;
+}
