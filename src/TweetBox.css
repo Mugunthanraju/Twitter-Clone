@@ -22,6 +22,7 @@
     font-size: 20px;
     border: none;
     background-color:  rgb(15, 28, 48);
+    color: white;
 }
 
 .tweet_image{
@@ -32,7 +33,7 @@
     border: none;
     background-color:  rgb(15, 28, 48);
     padding: 7.5x;
-
+    color: white;
 }
 
 .tweetBox_button {
