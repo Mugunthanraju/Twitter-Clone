@@ -8,7 +8,7 @@
 
 ## ScreenShot of application
 
-<img src="https://github.com/Mugunthanraju/Twitter-Clone/blob/master/img/sss.jpg" alt="Twitter Application" width="500" height="600">
+<img src="https://github.com/Mugunthanraju/Twitter-Clone/blob/master/img/sss.jpg" alt="Twitter Application" >
 
 
 ## Available Scripts
