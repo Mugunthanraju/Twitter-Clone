@@ -1,5 +1,16 @@
 # Twitter Clone
 
+## Techs used in this application are :
+1. React JS (UI)
+2. Flip Move (feeds)
+3. CSS (styling)
+4. Firebase (database storage and hosting)
+
+## ScreenShot of application
+
+<img src="https://github.com/Mugunthanraju/Twitter-Clone/blob/master/img/sss.jpg" alt="Twitter Application" width="500" height="600">
+
+
 ## Available Scripts
 
 In the project directory, you can run:
