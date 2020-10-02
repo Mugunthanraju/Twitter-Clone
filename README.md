@@ -1,10 +1,12 @@
 # Twitter Clone
+<hr></hr>
 
 ## Techs used in this application are :
 1. React JS (UI)
 2. Flip Move (feeds)
 3. CSS (styling)
 4. Firebase (database storage and hosting)
+<hr></hr>
 
 ## ScreenShot of application
 
@@ -13,6 +15,7 @@
 
 ### Live Running Link for this application :
 #### *https://twitter-clone-e531d.web.app/*
+<hr></hr>
 
 
 ## Available Scripts
