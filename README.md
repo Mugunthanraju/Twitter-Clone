@@ -1,4 +1,5 @@
 # Twitter Clone
+![Twitter-Clone](https://socialify.git.ci/Mugunthanraju/Twitter-Clone/image?font=Source%20Code%20Pro&forks=1&language=1&owner=1&pattern=Floating%20Cogs&stargazers=1&theme=Dark)
 <hr></hr>
 
 ## Techs used in this application are :
